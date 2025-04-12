@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environments
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
